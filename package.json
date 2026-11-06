@@ -1,0 +1,1 @@
+{"name":"zona-morta-ultima-esperanca","version":"1.1.0","private":true,"description":"Jogo multiplayer de sobrevivência zumbi","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","socket.io":"^4.8.1"}}
